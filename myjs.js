@@ -1,2 +1,2 @@
 alert('Hello, Rikuto!');
-al
+alert(1+1);
