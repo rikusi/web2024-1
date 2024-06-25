@@ -4,3 +4,6 @@ alert(Math.sqrt(1+1));
 alert(Math.sqrt(2+3));
 alert(2+3);
 alert('2'+'3');
+alret(Number('2')+Number('3'));
+alret('2'+3)
+alert(Number('2')+3)
